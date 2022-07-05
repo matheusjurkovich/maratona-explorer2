@@ -1,5 +1,5 @@
 # Maratona Explorer 2.0
-##Tecnologias Ultilizadas 🚀
+## Tecnologias Ultilizadas 🚀
 
 - ReactJs
 - TypeScript
